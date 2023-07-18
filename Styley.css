@@ -1,0 +1,87 @@
+ul {
+    
+    border: solid white 10px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: inline-block;
+    
+   
+
+}
+
+.image {
+     background-image: url(https://www.illusivedesign.ca/wp-content/uploads/2016/11/responsive-e-commerce-tomauri2.png);
+     background-size: cover;
+}
+li {
+    font-size: larger;
+    margin: 2px 2px 2px 2px;
+    padding: 5px;
+    display: inline-block;
+    margin: 5px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.col-6 {
+    border: dotted black 3px;
+}
+ .jumbotron h1 {
+    color: rebeccapurple;
+    font-weight: 500;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+ }
+ }
+
+ .home1 {
+    color: black;
+    border: solid chocolate 3px;
+    border-radius: 10px;
+    text-align: center;
+ }
+
+ .home2 {
+    color: white;
+    border: solid chocolate 3px;
+    border-radius: 10px;
+    background-color: black;
+    text-align: center;
+ }
+ footer p {
+    background-color: brown;
+    color: white;
+    text-align: center;
+
+ }
+ .advertise {
+    background-color: lightpink;
+    font-family: cursive;
+    font-style: oblique;
+    font-weight: 200;
+    text-align: center;
+    text-shadow: 5cap;
+    text-decoration-line: underlin;
+    border: solid black 3px;
+    margin: 10px;
+ }
+
+ .p-5  {
+   margin: 10px;
+   border: solid whitesmoke 8px;
+
+ }
+
+ .jumbo1 {
+   margin: 10px;
+   border: solid whitesmoke 8px;
+ }
+
+ #loginy {
+   background-color: aquamarine;
+   border: solid black 10px;
+   border-radius: 10px;
+   margin: 15px;
+   padding: 20px;
+
+ }
